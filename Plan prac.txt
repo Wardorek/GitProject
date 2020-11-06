@@ -1,3 +1,4 @@
 Plan pracy
 1. Inicjalizacja projektu
 2. Specyfikacja wymagań
+5. bla
