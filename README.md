@@ -1,0 +1,3 @@
+# GitProject
+
+Pierwsza publikacja projektu
